@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b43bf41b-9c70-47eb-a366-b411b3bfdead": {
+      "ProjectGuid": "b43bf41b-9c70-47eb-a366-b411b3bfdead",
+      "DisplayName": "retryTodo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+C:\Users\dawoon101\source\repos\retryTodo\retryTodo\bin\Debug\retryTodo.exe.config
+C:\Users\dawoon101\source\repos\retryTodo\retryTodo\bin\Debug\retryTodo.exe
+C:\Users\dawoon101\source\repos\retryTodo\retryTodo\bin\Debug\retryTodo.pdb
+C:\Users\dawoon101\source\repos\retryTodo\retryTodo\obj\Debug\retryTodo.csproj.AssemblyReference.cache
+C:\Users\dawoon101\source\repos\retryTodo\retryTodo\obj\Debug\retryTodo.csproj.SuggestedBindingRedirects.cache
+C:\Users\dawoon101\source\repos\retryTodo\retryTodo\obj\Debug\retryTodo.Form1.resources
+C:\Users\dawoon101\source\repos\retryTodo\retryTodo\obj\Debug\retryTodo.Properties.Resources.resources
+C:\Users\dawoon101\source\repos\retryTodo\retryTodo\obj\Debug\retryTodo.csproj.GenerateResource.cache
+C:\Users\dawoon101\source\repos\retryTodo\retryTodo\obj\Debug\retryTodo.csproj.CoreCompileInputs.cache
+C:\Users\dawoon101\source\repos\retryTodo\retryTodo\obj\Debug\retryTodo.exe
+C:\Users\dawoon101\source\repos\retryTodo\retryTodo\obj\Debug\retryTodo.pdb
